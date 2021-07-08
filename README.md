@@ -1,3 +1,15 @@
+Update - 7/7/2021  cloned the repo but before deployed to vercel, need to get env variables from contentful.
+
+space: process.env.CONTENTFUL_SPACE_ID,
+accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
