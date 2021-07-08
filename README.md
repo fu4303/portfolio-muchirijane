@@ -1,11 +1,12 @@
 Update - 7/7/2021  cloned the repo but before deployed to vercel, need to get env variables from contentful.
 
-space: process.env.CONTENTFUL_SPACE_ID,
+space: process.env.CONTENTFUL_SPACE_ID
+
 accessToken: process.env.CONTENTFUL_ACCESS_TOKEN
 
 
 
-
+-----
 
 
 
